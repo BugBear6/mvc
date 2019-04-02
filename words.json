@@ -1,0 +1,53 @@
+[{
+    "es": "mediante",
+    "ang": "by means of, through",
+    "type": "PREPOSITION",
+    "examples": [{
+        "es": "Pudimos sacar el gato del pozo mediante un cubo y una cuerda.",
+        "ang": "We were able to get the cat out of the well by means of a bucket and a rope."
+    }, {
+        "es": "Me comunico mediante email con mis colegas en el extranjero.",
+        "ang": "I communicate through email with my colleagues abroad."
+    }]
+}, {
+    "es": "ruptura",
+    "ang": "break",
+    "type": "FEMININE NOUN",
+    "examples": [{
+        "es": "Arreglar la ruptura de la valla salió muy caro.",
+        "ang": "Fixing the break in the fence was very expensive."
+    }]
+}, {
+    "es": "desfasado",
+    "ang": "behind the times, old-fashioned",
+    "type": "ADJECTIVE",
+    "examples": [{
+        "es": "Mi tía es tan desfasada. ¡Ni siquiera tiene teléfono celular!",
+        "ang": "My aunt is so behind the times. She doesn't even have a cell phone!"
+    }, {
+        "es": "Yo sé que mi vestuario está un poco desfasado pero es toda ropa muy fina.",
+        "ang": "I know my wardrobe is a bit old-fashioned, but it's all good-quality clothing."
+    }]
+}, {
+    "es": "nitidez",
+    "ang": "clarity (sharp quality)",
+    "type": "FEMININE NOUN",
+    "examples": [{
+        "es": "La nitidez de las fotos permitía distinguir las caras de todos los asistentes.",
+        "ang": "The clarity of the photos allowed you to see the faces of all those present."
+    }, {
+        "es": "Las fotos están borrosas; les falta nitidez.",
+        "ang": "The photos are blurry; they lack sharpness."
+    }]
+}, {
+    "es": "chirivía",
+    "ang": "parsnip",
+    "type": "FEMININE NOUN",
+    "examples": [{
+        "es": "Cuando pruebes chirivías, verás que su sabor es distinto al de la zanahoria.",
+        "ang": "When you try parsnips, you will see that their flavor is different from that of a carrot."
+    }, {
+        "es": "Laura está cultivando chirivía en su jardín.",
+        "ang": "Laura is growing parsnip in her garden."
+    }]
+}]
